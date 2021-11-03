@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @Rainall
-- 👀 I’m interested in making my life better
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on my project
-- 📫 How to reach me e mail w.zietal@outlook.com
+Be perfect or die tryin'.
